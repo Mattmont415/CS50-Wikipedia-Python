@@ -1,0 +1,12 @@
+{% extends "encyclopedia/layout.html" %}
+
+
+
+{% block title %}
+    Failed Entry!
+{% endblock %}
+
+{% block body %}
+  <h3>There is no entry for {{ entrytitle }}. But you could <a href="{% url 'create' %}">create</a> one!</h3>
+
+{% endblock %}

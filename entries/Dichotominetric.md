@@ -1,0 +1,3 @@
+#Dichotomy
+
+What a dichottomy
