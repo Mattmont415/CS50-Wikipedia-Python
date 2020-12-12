@@ -1,3 +1,3 @@
 #StrangerThings
 
-I'm not a stranger to the dark!!!! SO hide away, they say. THEY AINT GONNA LOVE YOU AS YOU ARE!!!
+Making this a sample entry. Testing testing 1, 2, 3. More testing to update
